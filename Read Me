@@ -1,0 +1,3 @@
+Implement a Cash Till with all the necessary Naira bills,
+to form the cash sales and create a withdrawal method,
+that withdraws change from the Till with the necessary Naira bills to form the withdrawal amount.
