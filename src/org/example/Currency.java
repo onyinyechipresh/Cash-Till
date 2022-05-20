@@ -1,8 +1,7 @@
 package org.example;
 
 import java.util.ArrayList;
-
-    public abstract class Currency {
+public abstract class Currency {
 
         int balance;
 
@@ -25,5 +24,3 @@ import java.util.ArrayList;
 
         public abstract String buy(int currency, String goods);
     }
-
-
